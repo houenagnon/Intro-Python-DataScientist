@@ -8,11 +8,11 @@ L'objectif de cette formation est de fournir aux débutants un point de départ 
 
 ## Contenu
 
-0.**Introduction à la série :** Pyhon pour la data science
+0. **Introduction à la série :** Pyhon pour la data science
 
-1.**Data Science en Afrique :** Métier, Opportunités et Impact
+1. **Data Science en Afrique :** Métier, Opportunités et Impact
 
-2.**Configuration de l'environnement de développement :** Google Colab
+2. **Configuration de l'environnement de développement :** Google Colab
 
 3. **Python Facile :** Les Fondamentaux Expliqués de A à Z pour Débutants en Programmation !
 
