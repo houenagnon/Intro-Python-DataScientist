@@ -16,7 +16,9 @@ L'objectif de cette formation est de fournir aux débutants un point de départ 
 
 3. **Python Facile :** Les Fondamentaux Expliqués de A à Z pour Débutants en Programmation !
 
-4. **Avenir...**
+4. **Python Facile :** Maîtrisez les Fondamentaux de Python en Codant une Calculatrice Interactive
+   
+5. **Avenir...**
    
 ## Comment Utiliser ce Dépôt
 
