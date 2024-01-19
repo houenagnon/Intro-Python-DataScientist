@@ -18,7 +18,9 @@ L'objectif de cette formation est de fournir aux débutants un point de départ 
 
 4. **Python Facile :** Maîtrisez les Fondamentaux de Python en Codant une Calculatrice Interactive
    
-5. **Avenir...**
+5. **Python Facile :** Maîtrisez les Fondamentaux de Python en Codant un Gestinnaire de Tâche Interactive
+   
+6. **A venir....** 
    
 ## Comment Utiliser ce Dépôt
 
